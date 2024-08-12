@@ -1,0 +1,30 @@
+.navesbar {
+    background-color: #f8f9fa; /* Example background color */
+    padding: 10px 20px;
+  }
+  
+  .cmdy {
+    font-size: 1.5rem;
+    color: #333; /* Example text color */
+    margin: 0;
+  }
+  
+  .logged-in-text {
+    font-size: 1.2rem;
+    color: #555; /* Example text color */
+    margin: 0;
+  }
+  
+  @media (max-width: 768px) {
+    .cmdy {
+      font-size: 1.2rem; /* Adjust font size for smaller screens */
+    }
+  
+    .logged-in-text {
+      font-size: 1rem; /* Adjust font size for smaller screens */
+    }
+  
+    .navesbar {
+      padding: 5px 10px; /* Adjust padding for smaller screens */
+    }
+  }

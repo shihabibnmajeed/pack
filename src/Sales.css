@@ -1,0 +1,12 @@
+.payd
+{
+    display: flex;
+    flex-direction: row;
+   gap: 3rem;
+}
+
+.paytd
+{
+    width: 1000px;
+    height: 350px;
+}

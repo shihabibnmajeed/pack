@@ -1,0 +1,73 @@
+.dayendcol1
+{
+    padding-top:40px;
+    padding-left: 0px;
+    display: flex;
+    justify-content: start;
+}
+.dayendform1
+{
+    width: 150px;
+    height: 32px;
+}
+.mainspage
+{
+    margin-top: -600px;
+    margin-left: 250px;
+}
+
+.times
+{
+    width: 175px;
+}
+.colh4
+{
+    display: flex;
+    font-size: 20px;
+}
+.classparticular
+{
+    display: flex;
+    justify-content: space-evenly;
+    
+}
+.phead
+{
+    padding-left: 10px;
+}
+.classphead2
+{
+    display: flex;
+    
+}
+.classdatevalue
+{
+    position: absolute;
+    right: 25px;
+}
+.modelss
+{
+    height: 100%;
+  width: 500px;
+  text-align: center;
+  margin-left: 350px;
+
+}
+.tableclass
+{ 
+    text-align: left;
+    width: 400px;
+    margin-left: 35px;
+
+}
+
+
+.tableclass,.tableclass th,.tableclass td
+{
+    border: 1px solid black
+}
+.TABLEROW
+{ 
+    font-weight: 700;
+    width: 100px;
+}

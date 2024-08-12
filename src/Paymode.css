@@ -1,0 +1,11 @@
+.pays
+{
+   display: flex;
+   flex-direction: row;
+   gap: 2rem;
+}
+.pay
+{
+   width: 800px;
+   height: 500px;
+}
